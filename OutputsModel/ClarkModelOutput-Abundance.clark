@@ -1,0 +1,53 @@
+Name,TaxID,Lineage,Count,Proportion_All(%),Proportion_Classified(%)
+Apophlaea sinclairii,212746,Eukaryota;Rhodophyta;Florideophyceae;Hildenbrandiales;Hildenbrandiaceae;Apophlaea,23,0.871873,0.900548
+Arthrobacter sp. ERGS1:01,1704044,Bacteria;Actinobacteria;Actinomycetia;Micrococcales;Micrococcaceae;Arthrobacter,49,1.85747,1.91856
+Aspergillus fischeri,36630,Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus,1,0.0379075,0.0391543
+Aureimonas sp. D3,1638164,Bacteria;Proteobacteria;Alphaproteobacteria;Hyphomicrobiales;Aurantimonadaceae;Aureimonas,6,0.227445,0.234926
+Azospirillum baldaniorum,1064539,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Azospirillaceae;Azospirillum,20,0.75815,0.783085
+Azospirillum brasilense,192,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Azospirillaceae;Azospirillum,1117,42.3427,43.7353
+Azospirillum lipoferum,193,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Azospirillaceae;Azospirillum,2,0.075815,0.0783085
+Azospirillum ramasamyi,682998,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Azospirillaceae;Azospirillum,155,5.87566,6.06891
+Azospirillum sp. B510,137722,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Azospirillaceae;Azospirillum,1,0.0379075,0.0391543
+Azospirillum sp. TSH58,664962,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Azospirillaceae;Azospirillum,47,1.78165,1.84025
+Azospirillum thermophilum,2202148,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Azospirillaceae;Azospirillum,2,0.075815,0.0783085
+Botryococcus braunii,38881,Eukaryota;Chlorophyta;Trebouxiophyceae;;;Botryococcus,2,0.075815,0.0783085
+Bryopsis sp. HV04063,1979421,Eukaryota;Chlorophyta;Ulvophyceae;Bryopsidales;Bryopsidaceae;Bryopsis,2,0.075815,0.0783085
+Caballeronia sp. SBC1,2705548,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Caballeronia,1,0.0379075,0.0391543
+Callipsygma wilsonis,2320807,Eukaryota;Chlorophyta;Ulvophyceae;Bryopsidales;Halimedaceae;Callipsygma,1,0.0379075,0.0391543
+Cupressus chengiana,329082,Eukaryota;Streptophyta;Pinopsida;Cupressales;Cupressaceae;Cupressus,4,0.15163,0.156617
+Dasya binghamiae,1896963,Eukaryota;Rhodophyta;Florideophyceae;Ceramiales;Dasyaceae;Dasya,1,0.0379075,0.0391543
+Echinacanthus longipes,1279188,Eukaryota;Streptophyta;Magnoliopsida;Lamiales;Acanthaceae;Echinacanthus,6,0.227445,0.234926
+Ensifer adhaerens,106592,Bacteria;Proteobacteria;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Ensifer,27,1.0235,1.05717
+Ensifer sp. PDNC004,2811423,Bacteria;Proteobacteria;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Ensifer,49,1.85747,1.91856
+Enterococcus faecium,1352,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,5,0.189538,0.195771
+Falsirhodobacter sp. PG104,2692330,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Falsirhodobacter,23,0.871873,0.900548
+Kirchneriella aperta,117505,Eukaryota;Chlorophyta;Chlorophyceae;Sphaeropleales;Selenastraceae;Kirchneriella,13,0.492798,0.509005
+Kumanoa americana,1196377,Eukaryota;Rhodophyta;Florideophyceae;Batrachospermales;Batrachospermaceae;Kumanoa,3,0.113723,0.117463
+Lepocinclis ovum,86638,Eukaryota;Euglenozoa;Euglenida;Euglenales;Phacaceae;Lepocinclis,1,0.0379075,0.0391543
+Lepocinclis steinii,459226,Eukaryota;Euglenozoa;Euglenida;Euglenales;Phacaceae;Lepocinclis,3,0.113723,0.117463
+Methylobacterium radiotolerans,31998,Bacteria;Proteobacteria;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium,2,0.075815,0.0783085
+Neorhizobium sp. NCHU2750,1825976,Bacteria;Proteobacteria;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Neorhizobium,3,0.113723,0.117463
+Nigella damascena,3444,Eukaryota;Streptophyta;Magnoliopsida;Ranunculales;Ranunculaceae;Nigella,1,0.0379075,0.0391543
+Paraburkholderia sp. PGU19,2735434,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia,2,0.075815,0.0783085
+Paracoccus aminophilus,34003,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus,20,0.75815,0.783085
+Paracoccus sp. AK26,2589076,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus,3,0.113723,0.117463
+Parallela transversalis,163324,Eukaryota;Chlorophyta;Chlorophyceae;Sphaeropleales;Sphaeropleaceae;Parallela,1,0.0379075,0.0391543
+Partenskyella glossopodia,552666,Eukaryota;Cercozoa;Chlorarachniophyceae;;;Partenskyella,13,0.492798,0.509005
+Pectinodesmus pectinatus,91197,Eukaryota;Chlorophyta;Chlorophyceae;Sphaeropleales;Scenedesmaceae;Pectinodesmus,15,0.568613,0.587314
+Peribacillus simplex,1478,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Peribacillus,2,0.075815,0.0783085
+Phaeocystis globosa,33658,Eukaryota;Haptophyta;;Phaeocystales;Phaeocystaceae;Phaeocystis,12,0.45489,0.469851
+Priestia megaterium,1404,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Priestia,9,0.341168,0.352388
+Ralstonia solanacearum,305,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia,872,33.0553,34.1425
+Rhizobium daejeonense,240521,Bacteria;Proteobacteria;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium,1,0.0379075,0.0391543
+Roseomonas marmotae,2768161,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Roseomonas,5,0.189538,0.195771
+Salmonella enterica,28901,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella,10,0.379075,0.391543
+Skermanella sp. TT6,2775420,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Azospirillaceae;Skermanella,4,0.15163,0.156617
+Sphingobium herbicidovorans,76947,Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium,1,0.0379075,0.0391543
+Staphylococcus aureus,1280,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,1,0.0379075,0.0391543
+Stellera chamaejasme,142738,Eukaryota;Streptophyta;Magnoliopsida;Malvales;Thymelaeaceae;Stellera,1,0.0379075,0.0391543
+Swingsia sp. F3b2,2558361,Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Swingsia,1,0.0379075,0.0391543
+Synura uvella,52557,Eukaryota;;Synurophyceae;Synurales;Mallomonadaceae;Synura,2,0.075815,0.0783085
+Triosteum pinnatifidum,134526,Eukaryota;Streptophyta;Magnoliopsida;Dipsacales;Caprifoliaceae;Triosteum,2,0.075815,0.0783085
+Volvox africanus,51714,Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Volvocaceae;Volvox,4,0.15163,0.156617
+Zea diploperennis,4576,Eukaryota;Streptophyta;Magnoliopsida;Poales;Poaceae;Zea,3,0.113723,0.117463
+UNKNOWN,UNKNOWN,UNKNOWN,84,3.18423,-
