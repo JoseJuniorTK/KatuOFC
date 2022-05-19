@@ -21,7 +21,7 @@ Coded by www.creative-tim.com
   <link rel="icon" type="image/png" href="./static/assets/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    INTMETA 1.0
+    Katu D.V
   </title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -45,7 +45,7 @@ Coded by www.creative-tim.com
           <!-- <p>CT</p> -->
         </a>
         <a href="https://www.creative-tim.com" class="simple-text logo-normal">
-          INTMETA 1.0
+          Katu D.V DEMO
           <!-- <div class="logo-image-big">
             <img src="../static/assets/img/logo-big.png">
           </div> -->
@@ -53,29 +53,17 @@ Coded by www.creative-tim.com
       </div>
       <div class="sidebar-wrapper">
         <ul class="nav">
-          <li class="active ">
+          <li class ="active">
             <a href="./">
               <i class="nc-icon nc-bank"></i>
-              <p>Main Page</p>
+              <p>Pagina Principal</p>
             </a>
           </li>
-          <li>
-            <a href="./kraken">
-              <i class="nc-icon nc-tile-56"></i>
-              <p>Kraken 1-2</p>
-            </a>
-          </li>
-          <li>
-            <a href="./clark">
-              <i class="nc-icon nc-tile-56"></i>
-              <p>CLARK</p>
-            </a>
-          </li>
-          
+
           <li>
             <a href="./about">
               <i class="nc-icon nc-caps-small"></i>
-              <p>About us</p>
+              <p>Sobre Nós</p>
             </a>
           </li>
         </ul>
@@ -93,7 +81,7 @@ Coded by www.creative-tim.com
                 <span class="navbar-toggler-bar bar3"></span>
               </button>
             </div>
-            <a class="navbar-brand" href="javascript:;">Main Page</a>
+            <a class="navbar-brand" href="javascript:;">Pagina Principal</a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-bar navbar-kebab"></span>
@@ -109,18 +97,39 @@ Coded by www.creative-tim.com
           <div class="col-md-12">
             <div class="card ">
               <div class="card-header ">
-                <center>
-                <img src="/static/assets/img/mainicon.png" alt="main icon" width="200" height="200">
-                
-                <br>
-                Select your tool output:
+                <center>                
+                  <img src="./static/assets/img/mainicon.png">
+                <h1> Coloque aqui sua tabela </h1> <br>
             </center>
               </div>
               <div class="card-body ">
                 <center>
-                <a href="/kraken"><button class="button" style="vertical-align:middle"><span>Kraken 1-2 </span></h1></button></a>
-                <a href="/clark"><button class="button" style="vertical-align:middle"><span>Clark </span></h1></button></a>
-                </center>
+                  
+                <form method="POST" enctype="multipart/form-data">
+            
+                    {% csrf_token %}
+                    <div class="row content">
+                        <div class="col">
+                            <input type="file" name="document" id="document" required="required">
+                        </div>
+                         <div class="col"> 
+                            <button class="button2" id="submit" class="btn-primary"> <span>Enviar</span></button>
+                        </div>
+                    </div>
+                </form>
+        <br>
+
+    {% block messages %}
+        {% if messages %}
+            <div class="container" style="color: firebrick; margin-top: 20px" >
+            {% for message in messages %}
+                {{ message }}
+            {% endfor %}
+            </div>
+        {% endif %}
+    {% endblock %}
+  </center>
+              </div>
 
               </div>
             </div>
@@ -139,7 +148,7 @@ Coded by www.creative-tim.com
             </nav>
             <div class="credits ml-auto">
               <span class="copyright">
-                Interactive Metagenomics 1.0
+                Katu Data Visualization
               </span>
             </div>
           </div>
