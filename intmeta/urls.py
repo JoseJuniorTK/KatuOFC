@@ -20,6 +20,5 @@ from intmeta.intmetapp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index, name='index'),
-    path('results', views.results, name='results'),
-    path('about', views.about, name='about'),
+    path('facilitamei', views.facilitamei_index, name='facilitamei_index'),
 ]

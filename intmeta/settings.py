@@ -11,8 +11,6 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 import os
 from pathlib import Path
-import django_heroku
-
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -27,7 +25,7 @@ SECRET_KEY = 'oi4pu76***y&lp=o@!u@xae!ter3l)=uhhzx6s724ftz#^dk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['intmetav1.herokuapp.com/']
+ALLOWED_HOSTS = ['katudv.com', 'www.katudv.com']
 
 
 # Application definition
@@ -134,6 +132,3 @@ MEDIA_URL = '/media/'
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 XS_SHARING_ALLOWED_METHODS = ['POST','GET','OPTIONS', 'PUT', 'DELETE']
-
-# Activate Django-Heroku.
-django_heroku.settings(locals())
